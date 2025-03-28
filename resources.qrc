@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/ass/icon/homeBlack.png</file>
+        <file>src/ass/icon/homeWhite.png</file>
+        <file>src/ass/icon/AI.png</file>
+        <file>src/ass/icon/AIWhite.png.png</file>
+        <file>src/ass/icon/home.png</file>
+        <file>src/ass/icon/picture.png</file>
+        <file>src/ass/icon/shopping-cart (2).png</file>
+        <file>src/ass/icon/shopping-cart.png</file>
+        <file>src/ass/icon/user-gear.png</file>
+        <file>src/ass/icon/user-gearWhite.png</file>
+        <file>src/ass/icon/top.png</file>
+        <file>src/ass/icon/facebook.png</file>
+        <file>src/ass/icon/github.png</file>
+        <file>src/ass/icon/python.png</file>
+        <file>src/ass/icon/css3.png</file>
+        <file>src/ass/icon/pinterest.png</file>
+        <file>src/ass/icon/sql-server.png</file>
+        <file>src/ass/icon/visual-basic (1).png</file>
+        <file>src/ass/icon/visual-basic.png</file>
+        <file>src/ass/icon/leave (1).png</file>
+        <file>src/ass/icon/leave.png</file>
+        <file>src/ass/icon/github (1).png</file>
+        <file>src/ass/icon/python (1).png</file>
+        <file>src/ass/icon/71ab2e596ef99b35528049c1d808d3cd.jpg</file>
+    </qresource>
+</RCC>

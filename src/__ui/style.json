@@ -1,0 +1,6 @@
+{
+    "QPushButton": "background-color: Transparent; border: none; border-radius:0px; color: white; padding: 5px 10px;",
+    "QPushButton:hover": "border-bottom: 1px solid rgb(8, 102, 255);",
+    "QPushButton:checked": "border-bottom: 1px solid rgb(8, 102, 255);"
+}
+

@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "3c8f3974ac0cdeca9c409760aee7a45a",
+    "username": "ad1",
+    "password": "1",
+    "email": "ad1@example.com",
+    "vaiTro": "0",
+    "ngayTao": "2025-03-06 10:53:52"
+  },
+  {
+    "uid": "6867b3e425eea0804663dee29b7cad30",
+    "username": "ad2",
+    "password": "1",
+    "email": "ad2@example.com",
+    "vaiTro": "0",
+    "ngayTao": "2025-03-06 10:53:52"
+  },
+  {
+    "uid": "b2454cfd6abdf9ca10ca5b062630b003",
+    "username": "ad3",
+    "password": "1",
+    "email": "ad3@example.com",
+    "vaiTro": "0",
+    "ngayTao": "2025-03-06 10:53:52"
+  }
+]

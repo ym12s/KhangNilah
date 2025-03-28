@@ -1,0 +1,6 @@
+{
+    "files": [
+        "src/coffee/mainwindow.py",
+        "src/__ui/form.ui"
+    ]
+}
